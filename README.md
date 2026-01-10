@@ -19,16 +19,20 @@
 
 ## 🎮 The Arcade
 
-1. **Clone & Run**
-   ```bash
+1. **Fork, Clone & Run**
+````
+   # Fork the repository first using the GitHub UI
    git clone https://github.com/your-username/opencade.git
    cd opencade
    # Open index.html in your browser
-   ```
+````
 
 2. **Play**
-   - Browse the curated list of community games.
-   - Click a card to launch the game instantly.
+
+   * Browse the curated list of community-built games.
+   * Click on any game card to launch the game instantly.
+   * Enjoy playing directly in your browser — no setup required.
+
 
 ## 🛠️ Contributing
 
